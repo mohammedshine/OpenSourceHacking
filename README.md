@@ -8,4 +8,5 @@
 - https://free.codebashing.com/
 - https://crt.sh
 - https://portswigger.net/web-security
+- https://blog.pentesterlab.com/how-to-start-reviewing-code-bc39df869140
 - 
