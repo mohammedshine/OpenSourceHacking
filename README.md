@@ -7,4 +7,3 @@
 - https://play.google.com/store/apps/details?id=com.securecodewarrior.bootcamp&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1
 - https://free.codebashing.com/
 - https://www.freecodecamp.org/
-https://crt.sh
