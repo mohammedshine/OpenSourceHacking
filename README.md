@@ -8,5 +8,4 @@
 - https://free.codebashing.com/
 - https://portswigger.net/web-security
 - https://blog.pentesterlab.com/how-to-start-reviewing-code-bc39df869140
-- https://www.freecodecamp.org/
 
