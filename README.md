@@ -8,4 +8,5 @@
 - https://free.codebashing.com/
 - https://portswigger.net/web-security
 - https://blog.pentesterlab.com/how-to-start-reviewing-code-bc39df869140
+- https://medium.com/techiepedia/javascript-code-review-guide-for-bug-bounty-hunters-c95a8aa7037a
 
