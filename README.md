@@ -8,5 +8,8 @@
 - https://free.codebashing.com/
 - https://portswigger.net/web-security
 - https://blog.pentesterlab.com/how-to-start-reviewing-code-bc39df869140
+- https://rules.sonarsource.com/
+- https://www.youtube.com/watch?v=A8CNysN-lOM
+- https://owasp.org/www-pdf-archive/OWASP_Code_Review_Guide_v2.pdf
 - https://medium.com/techiepedia/javascript-code-review-guide-for-bug-bounty-hunters-c95a8aa7037a
 
